@@ -1,16 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,500;1,500&family=Roboto+Mono:ital,wght@1,300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,500;1,500&family=Roboto+Mono&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
 
 :root{
     --primary-color: rgb(0, 0, 0);
     --base-color:aqua;
 }
 body{
-    font-family: 'Prompt', sans-serif;
-font-family: 'Roboto Mono', monospace;
-margin: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
+    font-size: 1.5rem;
 }
 hr{
     margin: 2rem 0rem;
@@ -58,7 +55,7 @@ hr{
 }
 .navigation .nav-brand{
     font-weight: bold;
-    font-size: 1.1rem;
+    font-size: 1.6rem;
 }
 .navigation .nav-pills{
     text-align: center;
